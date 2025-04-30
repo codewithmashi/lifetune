@@ -1,16 +1,58 @@
-# lifetune
+# 💚 LifeTune – All-in-One Health App
 
-A new Flutter project.
+A unified **Flutter** mobile app concept that combines fitness, meditation, diet, and hydration tracking into one seamless experience.
 
-## Getting Started
+![LifeTune Preview](assets/preview.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 Concept
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Juggling 5 different health apps?  
+This concept brings everything — **fitness**, **meditation**, **diet**, and **hydration** — into one clean, intuitive app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 💡 *Not my design — but I build mobile apps like this for iOS & Android.*  
+> 👉 [Check out the source code](https://www.instagram.com/reel/DIx0tqQz3CV/)  
+> ✉️ DM me to bring **your idea** to life.
+
+---
+
+## ✨ Features
+
+- 🏋️ Fitness Tracking
+- 🧘 Guided Meditation
+- 🥗 Diet & Nutrition Overview
+- 💧 Hydration Reminders
+- 🛠️ Built entirely in **Flutter**
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/codewithmashi/lifetune.git
+cd lifetune
+flutter pub get
+flutter run
+```
+
+---
+
+## ⚙️ Tech Stack
+
+- Flutter (Latest stable version)
+- Dart
+- GetX
+
+---
+
+## 🤝 Contribute
+
+Pull requests are welcome! If you'd like to improve the app or add features, feel free to fork and submit a PR.
+
+---
+
+## 📎 Links
+
+- 🔗 **Source Code:** [GitHub Repo](https://github.com/codewithmashi/lifetune)  
+- 📲 **More UI & Dev Inspiration:** [@codewithmashi](https://instagram.com/codewithmashi)
