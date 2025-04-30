@@ -2,7 +2,7 @@
 
 A unified **Flutter** mobile app concept that combines fitness, meditation, diet, and hydration tracking into one seamless experience.
 
-![LifeTune Preview](assets/preview.png)
+![LifeTune Preview](assets/lifetune_preview.png)
 
 ---
 
@@ -11,7 +11,7 @@ A unified **Flutter** mobile app concept that combines fitness, meditation, diet
 Juggling 5 different health apps?  
 This concept brings everything — **fitness**, **meditation**, **diet**, and **hydration** — into one clean, intuitive app.
 
-> 💡 *Not my design — but I build mobile apps like this for iOS & Android.*  
+> 💡 A modern health app experience — brought to life with Flutter for iOS & Android.  
 > 👉 [Check out the source code](https://www.instagram.com/reel/DIx0tqQz3CV/)  
 > ✉️ DM me to bring **your idea** to life.
 
