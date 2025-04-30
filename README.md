@@ -25,14 +25,6 @@ This concept brings everything — **fitness**, **meditation**, **diet**, and **
 - 💧 Hydration Reminders
 - 🛠️ Built entirely in **Flutter**
 
----
-
-## 📱 Preview
-
-![LifeTune Demo](assets/lifetune_preview.gif)
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally:
